@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-[Clique aqui para acessar!](https://https://pedrogoldschmidt.github.io/instagram-login/)
+[Clique aqui para acessar!](https://pedrogoldschmidt.github.io/instagram-login/)
 
 ## Tecnologias
 
